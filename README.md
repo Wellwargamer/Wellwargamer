@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Lee</h1>
-<h3 align="center">A passionate frontend developer from Mexico</h3>
+<h3 align="center">A passionate frontend developer from New York</h3>
 
-- 🔭 I’m currently working on **Myself**
+- 🔭 I’m currently working on **Python and JAVA projects**
 
 - 🌱 I’m currently learning **JAVA**
 
-- 👯 I’m looking to collaborate on **with myself**
+- 👯 I’m looking to collaborate on **Tech internships**
 
 - 🤝 I’m looking for help with **self-improvement**
 
-- 💬 Ask me about **nothing**
+- 💬 Ask me about **me**
 
 - 📫 How to reach me **ajaay559@gmail.com**
 
