@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python and JAVA projects**
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning **JAY/KAY & Scanner**
 
 - 👯 I’m looking to collaborate on **Tech internships**
 
